@@ -9,7 +9,7 @@ class Text extends Component {
 }
 
 // fuction Text(props) {
-//   return <h1>Hello, {props.name}</h1>
+//   return <h1>Hello, {props.name}</h1>;
 // }
 
 class App extends Component {
